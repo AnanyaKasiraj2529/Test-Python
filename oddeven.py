@@ -3,3 +3,5 @@ def check_odd(word):
         print("No")
     else:
         print("Yes")
+
+# we tested 3 cased and turned out correct
